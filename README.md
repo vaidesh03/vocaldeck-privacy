@@ -1,1 +1,0 @@
-# vocaldeck-privacy
