@@ -2,7 +2,7 @@
 
 **Effective Date:** February 09, 2026
 **Developer:** Vaibhav Deshmukh ("we," "our," or "us")
-**Contact:** [Insert Your Support Email Here]
+**Contact:** [vaidesh03@gmail.com]
 
 ## 1. Introduction
 VocalDeck ("the App") is a utility application designed to control presentation software via voice commands. We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we handle your information and the terms under which you use the App.
